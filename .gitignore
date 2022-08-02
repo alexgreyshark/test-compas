@@ -1,0 +1,6 @@
+Lib
+Scripts
+compas/user_selection/migrations
+__pycache__/
+.idea
+pyvenv.cfg
